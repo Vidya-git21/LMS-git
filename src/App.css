@@ -1,0 +1,32 @@
+/* Register.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.input {
+  margin: 10px 0;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.button {
+  padding: 10px;
+  background-color: #a7dff4;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
